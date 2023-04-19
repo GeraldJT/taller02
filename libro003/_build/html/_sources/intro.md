@@ -1,6 +1,6 @@
 # Noticias de Loja
 
-Aquí vamos a presentar las dos noticias de Loja
+Aquí vamos a presentar las noticias de Loja
 
 ## Destino de “Jardines de Punzara”, en manos de la nueva administración
 
